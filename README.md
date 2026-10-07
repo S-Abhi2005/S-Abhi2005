@@ -274,7 +274,7 @@ A simple task management application for creating and managing daily tasks.
 
 📧 Email: abhisheknayak78600@gmail.com
 
-💼 LinkedIn: [My LinkedIn](www.linkedin.com/in/abhishek-nayak-cse)
+💼 LinkedIn: [My LinkedIn](http://www.linkedin.com/in/abhishek-nayak-cse)
 
 💻 GitHub: [S-Abhi2005](https://github.com/S-Abhi2005)
 
