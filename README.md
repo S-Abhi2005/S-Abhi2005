@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhishek Nayak
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Aspiring+Software+Development+Engineer;Java+%7C+Python+%7C+Full-Stack+Development;DSA+%26+Problem+Solving;Building+Real-World+Software+Projects" alt="Animated developer headline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Aspiring+Software+Development+Engineer;Java+%7C+Python+%7C+Full-Stack+Development;DSA+%26+Problem+Solving;Building+Real-World+Software+Projects" alt="Animated developer headline" />
 </h3>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 - 🎓 Fourth-year B.Tech Computer Science Engineering student, graduating in 2027.
 - 💻 Interested in software engineering, backend development, and full-stack applications.
-- ☕ Practicing Data Structures and Algorithms using Java and Python.
+- ☕ Practicing programming and DSA using Java and Python.
 - 🏗️ Building practical projects to improve my development skills.
 - 🗄️ Learning database design, SQL, and API development.
 - ☁️ Exploring AWS, cloud computing, Linux, and DevOps fundamentals.
@@ -54,7 +54,7 @@
 | Backend | FastAPI, Java Servlets, JSP, JDBC, REST APIs |
 | Databases | PostgreSQL, MySQL |
 | ORM and Migrations | SQLAlchemy, Alembic |
-| Authentication | JWT, Role-Based Access Control (RBAC) |
+| Security | JWT authentication, Role-Based Access Control (RBAC) |
 | Core CS | DSA, OOP, DBMS, OS, Computer Networks |
 | Tools | Git, GitHub, VS Code, Eclipse, IntelliJ IDEA, Postman |
 | Cloud | AWS fundamentals, Linux, cloud computing, DevOps fundamentals |
@@ -116,32 +116,37 @@
 
 ### 🏫 1. Village School Management & Digital Learning Platform
 
-A full-stack platform designed to support school administration, academic activities, and communication between teachers, parents, and students.
+A full-stack application designed to support school administration, academic activities, and communication between teachers, parents, and students.
 
 **Tech Stack:** React, TypeScript, FastAPI, PostgreSQL, SQLAlchemy, Alembic, JWT, RBAC
 
+**Key Features**
 - 👥 Role-based access for administrators, teachers, parents, and students.
 - 📅 Student attendance management and attendance history.
 - 📝 Examination and marks management.
 - 📚 Digital study materials and learning resources.
 - 📊 Academic records and reports.
 - 🔐 Authentication and role-based authorization.
-- 🔔 Notifications for school activities.
+- 🔔 Communication and notifications for school activities.
 
-🔗 [Explore my repositories](https://github.com/S-Abhi2005?tab=repositories)
+**Project Focus:** Building a practical digital platform for school workflows.
+
 
 ### 🗣️ 2. Campus Voice — Complaint Management System
 
-A Java-based web application for submitting campus complaints and tracking their resolution.
+A Java-based web application that allows students to submit campus complaints and track their resolution.
 
 **Tech Stack:** Java, JSP, Servlets, JDBC, MySQL, Apache Tomcat
 
+**Key Features**
 - 📝 Complaint submission.
 - 🔄 Complaint status tracking.
 - ⏳ Pending, in-progress, and resolved statuses.
 - 🗄️ Database-backed complaint management.
 
-🔗 [Explore my repositories](https://github.com/S-Abhi2005?tab=repositories)
+**Project Focus:** Java web development, database connectivity, and CRUD operations.
+
+
 
 ### 🚧 3. Road Damage Detection & Alert System
 
@@ -149,11 +154,13 @@ A computer-vision project focused on identifying road damage from images and ass
 
 **Technologies:** Python, YOLO, OpenCV, GPS/IoT concepts
 
+**Key Features**
 - 🚧 Road damage detection from images.
 - 📷 Image processing and computer-vision concepts.
 - 📍 Location-aware reporting concept.
 
-🔗 [Explore my repositories](https://github.com/S-Abhi2005?tab=repositories)
+**Project Focus:** Exploring computer vision for practical road-monitoring applications.
+
 
 ### 🔐 4. Password Generator
 
@@ -161,10 +168,11 @@ A Python utility for generating random passwords.
 
 **Technologies:** Python
 
+**Key Features**
 - 🔑 Random password generation.
+- 🛡️ Customizable password length, if implemented.
 - 🧠 Practice with Python logic and string handling.
 
-🔗 [Explore my repositories](https://github.com/S-Abhi2005?tab=repositories)
 
 ### ✅ 5. To-Do Application
 
@@ -172,11 +180,12 @@ A simple task-management application built with web technologies.
 
 **Technologies:** HTML, CSS, JavaScript
 
+**Key Features**
 - ➕ Add tasks.
 - ✅ Track task completion.
 - 🗂️ Organize everyday tasks.
 
-🔗 [Explore my repositories](https://github.com/S-Abhi2005?tab=repositories)
+
 
 ---
 
@@ -188,9 +197,9 @@ A simple task-management application built with web technologies.
   </a>
 </p>
 
-- 🏅 100+ problems solved, as currently reported.
+- 🏅 Solved 100+ problems, as currently reported.
 - ☕ Practicing DSA using Java and Python.
-- 🧠 Improving algorithm design, problem-solving, and code optimization.
+- 🧠 Working on problem-solving, algorithm design, and code optimization.
 
 **Topics I Practice**
 - Arrays and Strings
@@ -205,34 +214,30 @@ A simple task-management application built with web technologies.
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=S-Abhi2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Abhi2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Abhi2005&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=S-Abhi2005&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=S-Abhi2005&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub contribution activity graph"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Abhi2005&layout=compact&hide_border=true" alt="Most used languages"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/S-Abhi2005">
-    View my GitHub profile and contributions →
+    <img src="https://streak-stats.demolab.com?user=S-Abhi2005&hide_border=true" alt="GitHub contribution streak"/>
   </a>
 </p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/S-Abhi2005">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Abhi2005&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+  </a>
+</p>
+
 ---
 
 ## 🌱 Currently Learning
