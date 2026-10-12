@@ -85,7 +85,7 @@ A full-stack platform designed to support school administration, academic activi
 - 📊 Academic records and reports
 - 🔐 Authentication and role-based authorization
 
-🔗 **[View my GitHub repositories](https://github.com/S-Abhi2005?tab=repositories)**
+
 
 ### 🗣️ Campus Voice — Complaint Management System
 
