@@ -98,7 +98,7 @@ A Java-based web application for submitting campus complaints and tracking their
 - ⏳ Pending, in-progress, and resolved statuses
 - 🗄️ Database-backed complaint management
 
-🔗 **[Explore repositories](https://github.com/S-Abhi2005?tab=repositories)**
+
 
 ### 🚧 Road Damage Detection & Alert System
 
@@ -109,8 +109,7 @@ A computer-vision project focused on identifying road damage from images and ass
 - 🚧 Road damage detection
 - 📷 Image processing
 - 📍 Location-aware reporting concept
-
-🔗 **[Explore repositories](https://github.com/S-Abhi2005?tab=repositories)**
+  
 
 ### 🔐 Password Generator
 A Python utility for generating random passwords.
