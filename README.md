@@ -208,11 +208,12 @@ A simple task-management application built with web technologies.
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Abhi2005&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub overview and statistics" width="100%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=S-Abhi2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Abhi2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Abhi2005&layout=compact&hide_border=true&theme=tokyonight" alt="Top programming languages" height="180"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=S-Abhi2005&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -220,13 +221,18 @@ A simple task-management application built with web technologies.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Abhi2005&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=S-Abhi2005&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub contribution activity graph"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=S-Abhi2005&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="100%"/>
+  <a href="https://github.com/S-Abhi2005">
+    View my GitHub profile and contributions →
+  </a>
 </p>
-
 ---
 
 ## 🌱 Currently Learning
