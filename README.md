@@ -30,7 +30,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=S-Abhi2005&label=Profile%20Views&color=00D9FF&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Graduation-2027-blue?style=flat" alt="Graduation year"/>
 </p>
 
 ---
