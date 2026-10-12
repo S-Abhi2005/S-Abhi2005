@@ -131,7 +131,6 @@ A full-stack application designed to support school administration, academic act
 
 **Project Focus:** Building a practical digital platform for school workflows.
 
-🔗 [View my GitHub repositories](https://github.com/S-Abhi2005?tab=repositories)
 
 ### 🗣️ 2. Campus Voice — Complaint Management System
 
@@ -147,7 +146,6 @@ A Java-based web application that allows students to submit campus complaints an
 
 **Project Focus:** Java web development, database connectivity, and CRUD operations.
 
-🔗 [View my GitHub repositories](https://github.com/S-Abhi2005?tab=repositories)
 
 ### 🚧 3. Road Damage Detection & Alert System
 
@@ -162,7 +160,6 @@ A computer-vision project focused on identifying road damage from images and ass
 
 **Project Focus:** Exploring computer vision for practical road-monitoring applications.
 
-🔗 [View my GitHub repositories](https://github.com/S-Abhi2005?tab=repositories)
 
 ### 🔐 4. Password Generator
 
@@ -175,7 +172,6 @@ A Python utility for generating random passwords.
 - 🛡️ Customizable password length, if implemented.
 - 🧠 Practice with Python logic and string handling.
 
-🔗 [View my GitHub repositories](https://github.com/S-Abhi2005?tab=repositories)
 
 ### ✅ 5. To-Do Application
 
@@ -188,7 +184,6 @@ A simple task-management application built with web technologies.
 - ✅ Track task completion.
 - 🗂️ Organize everyday tasks.
 
-🔗 [View my GitHub repositories](https://github.com/S-Abhi2005?tab=repositories)
 
 ---
 
