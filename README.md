@@ -1,287 +1,186 @@
-# Hi 👋, I'm Abhishek Nayak
+# 👋 Hi, I'm Abhishek Nayak
 
-🚀 Computer Science Engineering Student | DSA Enthusiast | Software Developer
+### 💻 Computer Science Engineering Student | Software Developer | DSA Enthusiast
 
-I'm a passionate Computer Science Engineering student from India who enjoys solving Data Structures & Algorithms problems and building real-world applications using Java, Python, SQL and modern technologies.
+I enjoy building practical software applications, solving Data Structures and Algorithms problems, and learning technologies that help solve real-world problems.
 
----
-
-## 🌱 About Me
-
-- 🎓 4th Year B.Tech Computer Science Engineering Student
-- 💻 Interested in Software Development and Problem Solving
-- 🧩 Practicing Data Structures & Algorithms
-- ☁️ Currently learning Cloud Computing and DevOps
-- 🤖 Exploring AI, Machine Learning and Generative AI
-- 🚀 Building real-world software projects
-- 🎯 Goal: Become a Software Development Engineer (SDE)
-
----
-
-## 💻 Coding Profile
-
-### 🟡 LeetCode
-
-🔗 [My LeetCode Profile](YOUR_LEETCODE_LINK)
-
-**Solved: 100+ Problems**
+<p align="center">
+  <a href="https://github.com/S-Abhi2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/Abhi78600/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-nayak-cse">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abhisheknayak78600@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 Coding Achievements
+## 👨‍💻 About Me
 
-🏅 Solved 100+ Problems on LeetCode
+- 🎓 Fourth-year B.Tech CSE student, graduating in 2027.
+- 💡 Interested in software engineering, backend development, and problem-solving.
+- 🧩 Practicing DSA using Java and Python.
+- 🏗️ Building full-stack applications and practical software projects.
+- ☁️ Learning AWS, cloud computing, and DevOps fundamentals.
+- 📚 Strengthening my knowledge of DBMS, OOP, OS, and Computer Networks.
+- 🎯 Aspiring Software Development Engineer.
 
-💻 Practicing Data Structures & Algorithms using Java and Python
+## 🛠️ Tech Stack
 
-🧩 Strong interest in Problem Solving
+**Languages**
 
-🚀 Building and maintaining DSA solutions on GitHub
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
 
-🎯 Preparing for Software Development placements
+**Frontend**
 
----
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
 
-## 💻 DSA & Programming
+**Backend & Databases**
 
-- Java
-- Python
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
-- Recursion
-- Arrays
-- Strings
-- Linked Lists
-- Stack
-- Queue
-- Binary Trees
-- Binary Search
-- Sorting & Searching
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Java_Servlets-5382A1?style=flat-square" alt="Java Servlets"/>
+  <img src="https://img.shields.io/badge/JSP-5382A1?style=flat-square" alt="JSP"/>
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square" alt="JDBC"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
----
+**Tools & Fundamentals**
 
-## 🛠 Tech Stack
+- **Developer Tools:** Git, GitHub, VS Code, Eclipse, IntelliJ IDEA, Postman
+- **Computer Science:** DSA, OOP, DBMS, Operating Systems, Computer Networks
+- **Cloud & DevOps:** AWS fundamentals, Linux, cloud computing, DevOps fundamentals
+- **AI & Data:** Machine learning fundamentals, Generative AI fundamentals, Jupyter Notebook
 
-### Languages
-
-- ☕ Java
-- 🐍 Python
-- 🗄️ SQL
-- 🌐 JavaScript
-- HTML5
-- CSS3
-
-### Backend
-
-- Java Servlets
-- JSP
-- JDBC
-- FastAPI
-
-### Databases
-
-- MySQL
-- PostgreSQL
-
-### Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- Computer Networks
-
-### Cloud & DevOps
-
-- ☁️ Cloud Computing
-- AWS
-- Cloud Architecture Fundamentals
-- Linux
-- Git
-- GitHub
-- DevOps Fundamentals
-
-### AI & Data
-
-- Machine Learning Fundamentals
-- Generative AI Fundamentals
-- Jupyter Notebook
-- Python Data Processing
-
-### Tools
-
-- VS Code
-- IntelliJ IDEA
-- Eclipse
-- Jupyter Notebook
-- Postman
-- Git
-- GitHub
-
----
-
-## 📂 Projects
+## 🚀 Featured Projects
 
 ### 🏫 Village School Management & Digital Learning Platform
 
-A full-stack platform designed to digitally manage rural school activities including students, teachers, parents, attendance, examinations, marks and learning resources.
+A full-stack platform designed to support school administration, academic activities, and communication between teachers, parents, and students.
 
-**Tech Stack**
+**Tech Stack:** React, TypeScript, FastAPI, PostgreSQL, SQLAlchemy, Alembic, JWT
 
-- React
-- TypeScript
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- Alembic
-- JWT
-- RBAC
+- 👥 Role-based access for administrators, teachers, parents, and students
+- 📅 Student attendance management
+- 📝 Examinations and marks management
+- 📚 Digital learning resources
+- 📊 Academic records and reports
+- 🔐 Authentication and role-based authorization
 
-**Features**
+🔗 **[View my GitHub repositories](https://github.com/S-Abhi2005?tab=repositories)**
 
-- 👨‍🎓 Student Management
-- 👨‍🏫 Teacher Management
-- 👨‍👩‍👧 Parent Management
-- 📚 Learning Resources
-- 📝 Online Tests
-- 📊 Marks & Reports
-- 📅 Attendance Management
-- 🔐 Role-Based Authentication
+### 🗣️ Campus Voice — Complaint Management System
 
----
+A Java-based web application for submitting campus complaints and tracking their resolution.
 
-### 🗣️ Campus Voice
+**Tech Stack:** Java, JSP, Servlets, JDBC, MySQL, Apache Tomcat
 
-A college complaint management system where students can submit complaints and track their status.
+- 📝 Complaint submission
+- 🔄 Complaint status tracking
+- ⏳ Pending, in-progress, and resolved statuses
+- 🗄️ Database-backed complaint management
 
-**Tech Stack**
-
-- Java
-- JSP
-- Servlets
-- JDBC
-- MySQL
-- Apache Tomcat
-
-**Features**
-
-- 📝 Submit Complaints
-- 🔄 Track Complaint Status
-- ⏳ Pending / In Progress / Resolved
-- 🗄️ Database Management
-
----
+🔗 **[Explore repositories](https://github.com/S-Abhi2005?tab=repositories)**
 
 ### 🚧 Road Damage Detection & Alert System
 
-An AI-based computer vision project designed to detect road damage and provide location information.
+A computer-vision project focused on identifying road damage from images and associating detections with location information.
 
-**Tech Stack**
+**Technologies:** Python, YOLO, OpenCV, GPS/IoT concepts
 
-- Python
-- YOLO
-- OpenCV
-- GPS
-- IoT
+- 🚧 Road damage detection
+- 📷 Image processing
+- 📍 Location-aware reporting concept
 
-**Features**
-
-- 🚧 Road Damage Detection
-- 📷 Image Processing
-- 📍 Location Detection
-- 🤖 Computer Vision
-
----
+🔗 **[Explore repositories](https://github.com/S-Abhi2005?tab=repositories)**
 
 ### 🔐 Password Generator
-
-A simple application for generating secure random passwords.
-
-**Tech Stack**
-
-- Python
-
----
+A Python utility for generating random passwords.
 
 ### ✅ To-Do Application
+A simple task management application built with HTML, CSS, and JavaScript.
 
-A simple task management application for creating and managing daily tasks.
+## 🧩 Problem Solving
 
-**Tech Stack**
+- 🟡 **LeetCode:** [Abhi78600](https://leetcode.com/u/Abhi78600/)
+- 🏅 **100+ problems solved**
+- ☕ Practicing Java and Python
+- 📚 Topics: Arrays, Strings, Hash Maps, Linked Lists, Stacks, Queues, Binary Trees, Recursion, Sorting, and Searching
 
-- HTML
-- CSS
-- JavaScript
+## 📊 GitHub Analytics
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Abhi2005&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</p>
 
-## 📚 Currently Learning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Abhi2005&layout=compact&hide_border=true" alt="Most used languages"/>
+</p>
 
-- Data Structures & Algorithms
-- Advanced Java
-- Python
-- SQL
-- AWS Cloud
-- Cloud Computing
-- DevOps
-- Machine Learning
-- Generative AI
-- Full Stack Development
+<p align="center">
+  <a href="https://github.com/S-Abhi2005">
+    <img src="https://streak-stats.demolab.com?user=S-Abhi2005&hide_border=true" alt="GitHub contribution streak"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/S-Abhi2005">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Abhi2005&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+  </a>
+</p>
 
-## 🎯 2026–2027 Goals
+## 🌱 Currently Learning
 
-- 🚀 Solve 200+ DSA Problems
-- ☕ Improve Java Programming
-- 🐍 Strengthen Python
-- 🗄️ Master SQL & Databases
-- ☁️ Learn AWS & Cloud Computing
-- 🔧 Learn DevOps Fundamentals
-- 🤖 Understand Generative AI & LLMs
-- 🏗️ Build Production-Style Projects
-- 💼 Get placed as a Software Development Engineer
-- ⭐ Build a strong GitHub portfolio
+- Data Structures and Algorithms
+- Java, Python, and SQL
+- Backend development and REST APIs
+- AWS and cloud computing
+- DevOps fundamentals
+- Machine learning and Generative AI fundamentals
 
----
+## 🎯 Goals for 2026–2027
 
-## 📊 GitHub Stats
+- [ ] Solve 200+ DSA problems
+- [ ] Improve Java, Python, and SQL
+- [ ] Build practical software projects
+- [ ] Strengthen backend and database skills
+- [ ] Learn AWS and DevOps fundamentals
+- [ ] Prepare for software engineering placements
+- [ ] Maintain a consistent GitHub contribution habit
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Abhi2005&show_icons=true&theme=tokyonight)
+## 🤝 Connect With Me
 
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=S-Abhi2005&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/S-Abhi2005/S-Abhi2005/output/github-contribution-grid-snake.svg)
-
----
-
-## 📈 Contribution Graph
-
-![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-Abhi2005&theme=tokyo-night)
+<p>
+  <a href="https://github.com/S-Abhi2005">GitHub</a> •
+  <a href="https://leetcode.com/u/Abhi78600/">LeetCode</a> •
+  <a href="https://www.linkedin.com/in/abhishek-nayak-cse">LinkedIn</a> •
+  <a href="mailto:abhisheknayak78600@gmail.com">Email</a>
+</p>
 
 ---
 
-## 📫 Connect With Me
+<p align="center">
+  <i>Learn consistently. Build practically. Improve every day.</i>
+</p>
 
-📧 Email: abhisheknayak78600@gmail.com
-
-💼 LinkedIn: [My LinkedIn](http://www.linkedin.com/in/abhishek-nayak-cse)
-
-💻 GitHub: [S-Abhi2005](https://github.com/S-Abhi2005)
-
----
-
-## ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-🚀 Keep Learning • Keep Building • Keep Solving
+<p align="center">
+  ⭐ If you find my work useful, consider starring my repositories!
+</p>
