@@ -111,22 +111,23 @@
 
 ## 🚀 Featured Projects
 
-### 🏫 1. Village School Management & Digital Learning Platform
+### ☁️ 1. LogSentinel — Cloud Log Intelligence & Incident Detection Platform
 
-A full-stack application designed to support school administration, academic activities, and communication between teachers, parents, and students.
+A full-stack monitoring platform that collects application logs, detects configured error patterns, and helps engineers investigate and manage incidents through a centralized dashboard.
 
-**Tech Stack:** React, TypeScript, FastAPI, PostgreSQL, SQLAlchemy, Alembic, JWT, RBAC
+**Tech Stack:** Python, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Alembic, JWT, RBAC
 
 **Key Features**
-- 👥 Role-based access for administrators, teachers, parents, and students.
-- 📅 Student attendance management and attendance history.
-- 📝 Examination and marks management.
-- 📚 Digital study materials and learning resources.
-- 📊 Academic records and reports.
-- 🔐 Authentication and role-based authorization.
-- 🔔 Communication and notifications for school activities.
+- 📥 **Log Ingestion:** Receives application logs through REST APIs with API-key authentication.
+- 🔍 **Rule-Based Detection:** Identifies configured patterns, including critical logs, error thresholds, repeated failures, error rates, and service inactivity.
+- 🚨 **Incident Management:** Creates incidents when configured detection rules are triggered.
+- 🔄 **Incident Lifecycle:** Supports tracking incidents through open, acknowledged, investigating, resolved, and reopening states.
+- 🔐 **Authentication & Authorization:** Implements JWT authentication and role-based access for super administrators, engineers, and viewers.
+- 🗄️ **Database Management:** Stores application logs and incident data in PostgreSQL using SQLAlchemy and Alembic.
+- 📊 **Monitoring Dashboard:** Provides a centralized interface to review logs and monitor incidents.
+- 📱 **Mobile Browser Access:** Allows users to access the dashboard through a mobile browser when the application is running and reachable.
 
-**Project Focus:** Building a practical digital platform for school workflows.
+**Project Focus:** Backend engineering, REST API development, log processing, rule-based incident detection, database design, authentication, and cloud monitoring concepts.
 
 
 ### 🗣️ 2. Campus Voice — Complaint Management System
