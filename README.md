@@ -130,6 +130,7 @@ A full-stack monitoring platform that collects application logs, detects configu
 **Project Focus:** Backend engineering, REST API development, log processing, rule-based incident detection, database design, authentication, and cloud monitoring concepts.
 
 
+
 ### 🗣️ 2. Campus Voice — Complaint Management System
 
 A Java-based web application that allows students to submit campus complaints and track their resolution.
