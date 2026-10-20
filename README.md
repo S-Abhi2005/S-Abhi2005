@@ -129,6 +129,7 @@ A full-stack monitoring platform that collects application logs, detects configu
 
 **Project Focus:** Backend engineering, REST API development, log processing, rule-based incident detection, database design, authentication, and cloud monitoring concepts.
 
+**Open browser at (https://gravity-rover-stood-break.trycloudflare.com)
 
 
 ### 🗣️ 2. Campus Voice — Complaint Management System
